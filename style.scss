@@ -1,0 +1,9 @@
+//匯入套件css
+@import "./node_modules/bootstrap/scss/functions";
+
+@import "./stylesheet/helper/variables";
+
+@import "./node_modules/bootstrap/scss/bootstrap.scss";
+
+//原本手寫的css
+@import "./stylesheet/helper/page/home";
